@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kuldeeeeep
 - 👀 I’m interested in Concept Art , Web Developement.
 - 🌱 I’m currently learning Blender, HTML. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram : @kul.deeep
 
 <!---
